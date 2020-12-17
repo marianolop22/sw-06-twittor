@@ -42,7 +42,8 @@
         {
             "src": "img/icons/icon-512x512.png",
             "type": "image/png",
-            "sizes": "512x512"
+            "sizes": "512x512",
+            "purpose": "maskable"
         }
     ],
     "background_color": "#3498db",
